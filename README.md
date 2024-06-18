@@ -20,3 +20,5 @@ Access to list of recorded requests is limited to public IP from terraform launc
 ```
 curl "https://yfo4rqrd55.execute-api.eu-west-2.amazonaws.com/rfping/SoMeTeStStRiNG" -X OPTIONS
 ```
+### Infrastructure model
+![0x0FB0_rfping](https://github.com/0x0FB0/rfping/assets/173192552/fbbf61db-759c-4c92-96de-dcd9b3b869ff)
